@@ -15,8 +15,8 @@ of degrees 4-6 to match Hilbert modular forms.
 
 **Todo**:
 * Complete the finding and uploading of curves over totally real
-  fields to match the HMF newforms for fields of degrees >3.
-* compute and add p-adic data for curves over Q of conductor > 130000.
+  fields to match the HMF newforms for fields of degrees &gt; 3.
+* compute and add p-adic data for curves over Q of conductor &gt; 130000.
 * compute more ranks and generators for ecnf
 
 ## Collection curves
@@ -26,7 +26,7 @@ of degrees 4-6 to match Hilbert modular forms.
 * Origin: Cremona database, https://github.com/JohnCremona/ecdata
 * Extent: complete for conductors up to 380,000 (as of February 2016)
 
-<table border=2>
+<table border=2 style="display: table">
 <tr>
 <th>Field</th>
 <th>Description</th>
@@ -257,10 +257,10 @@ Index information on collection curves:
 * Content: p-adic regulators for elliptic curves over Q
 * Contributors: unkown
 * Origin: unknown
-* Extent: primes p with 3,p<100 of good ordinary reduction, for curves of
+* Extent: primes p with 3,p &lt; 100 of good ordinary reduction, for curves of
  conductor up to 130,000 only (last updated in 2010)
 
-<table border=2>
+<table border=2 style="display: table">
 <tr>
 <th>Field</th>
 <th>Description</th>
@@ -314,7 +314,7 @@ int </td><td>N_0</td><td> 1 </td><td>&nbsp;</td> </tr>
   the norm, a the smallest positive integer and alpha a second
   generator expressed as a polynomial in w.
 
-<table border=2>
+<table border=2 style="display: table;">
 <tr>
 <th>Field</th>
 <th>Description</th>
